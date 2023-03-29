@@ -10,8 +10,7 @@
     text-decoration: none
 }
 
-body {
-    display: grid;   
+body {   
     grid-template-rows: 100px 100px 100px 100px; 
     grid-template-columns: 100px 100px 100px 100px;
     width: 100%;
